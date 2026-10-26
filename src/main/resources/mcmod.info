@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "pvpbot",
+    "name": "PvP Bot Trainer",
+    "description": "Bot de treino de PvP imortal com 5 dificuldades (Iniciante a Insano).",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": ["PvPBot"]
+  }
+]
